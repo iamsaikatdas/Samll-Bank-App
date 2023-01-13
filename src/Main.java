@@ -28,6 +28,7 @@ public class Main {
         String pass = sc.next();
 
         System.out.println(sbiUser.withDrawMoney(moneyWithdraw, pass));
+        System.out.println("Thanking your to visit in our bank!");
 
     }
 }
